@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlasmaPup", "PlasmaPup\PlasmaPup.csproj", "{E3FAE83C-40D0-4141-910A-1E3C89CA0956}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PlasmaPupSetup", "PlasmaPupSetup\PlasmaPupSetup.vdproj", "{0AC07E1A-B378-4613-923A-065765A34891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3FAE83C-40D0-4141-910A-1E3C89CA0956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FAE83C-40D0-4141-910A-1E3C89CA0956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FAE83C-40D0-4141-910A-1E3C89CA0956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FAE83C-40D0-4141-910A-1E3C89CA0956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC07E1A-B378-4613-923A-065765A34891}.Debug|Any CPU.ActiveCfg = Debug
+		{0AC07E1A-B378-4613-923A-065765A34891}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1D7BE85-BFB8-4AD6-AD26-AF1BEA309270}
+	EndGlobalSection
+EndGlobal
