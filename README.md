@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="PlasmaPup.png" width="40%">
+    <img src="PlasmaPup.png" width="80%">
 </p><p>&nbsp;</p>
 
 PlasmaPup
-=======
+=========
 
-## Fast Identification of Vulnerable Web Technologies in your Organization
+## Effortlessly Audit Active Directory Permissions
 
 PlasmaPup is designed to help central and departmental IT personnel understand 
 their exposures in Active Directory by showing which accounts have permissions 
