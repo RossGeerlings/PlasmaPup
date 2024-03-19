@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="PlasmaPup.png" width="95%">
+    <img src="PlasmaPup.png" width="100%">
 </p><p>&nbsp;</p>
 
 PlasmaPup
