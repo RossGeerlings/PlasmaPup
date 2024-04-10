@@ -12,6 +12,14 @@ their exposures in Active Directory by showing which accounts have permissions
 to make changes within their OU(s) or modify group policy applying to thier 
 OU(s).
 
+The installer for PlasmaPup, including both the MSI (Microsoft Installer) and 
+EXE files, can be found in the PlasmaPupSetup/Release directory within the 
+repository. These files are pre-built and ready to install PlasmaPup on your 
+Windows system.  The installer and executable files available in this 
+repository (PlasmaPupSetup/Release) are not digitally signed. If you require 
+verified digital signatures for security purposes, we recommend building the 
+application from the source code provided.
+
 PlasmaPup was written by Ross Geerlings and is licensed under the terms of the 
 MIT license, reproduced below.\n\nThe MIT License.
 
